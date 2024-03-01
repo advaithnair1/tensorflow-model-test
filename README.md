@@ -1,2 +1,1 @@
-# tensorflow-model-test
-ML model testing and development in TensorFlow
+# TensorFlow Model Testing using Relu activation function
